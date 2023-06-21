@@ -1,0 +1,6 @@
+.vs/
+Debug/
+x64/
+Lib/GreeterLib/Debug
+Lib/GreeterLib/x64
+Lib/GreeterLib/.vs
